@@ -1,0 +1,704 @@
+commit 8babca25114125ed579efce93b3c9a211903dadf
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Fri Dec 19 23:45:32 2025 -0600
+
+    final push CK
+
+commit 5b14782b90e50a7a49ec87d35989e2664729e472
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 05:38:55 2025 +0000
+
+    Commenting out the NLP Script
+
+commit ca93be896bf144428150938321da42e19dfbda09
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 05:37:56 2025 +0000
+
+    Updating Time Series
+
+commit 6a02440ec180cf7e61d6ead48520768d30be6293
+Author: Love Ayinde <ljabxf@missouri.edu>
+Date:   Fri Dec 19 22:46:59 2025 -0600
+
+    Speciality 2.0
+
+commit 5e60dbeaa439e31980ad0847161db1dcbc9ebc75
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Fri Dec 19 22:16:23 2025 -0600
+
+    feature selection workbook
+
+commit c259554042bcede72b2b43af5b8cae20023d3d2d
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 03:21:52 2025 +0000
+
+    Updating CMS General Payments with outputs
+
+commit b53f8b279dfd79987cd3009b1afce0c88327e07f
+Merge: 3937267 83de2bb
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 03:20:57 2025 +0000
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+
+commit 83de2bbb26cf3d61074a8b724b62d43ecb73de74
+Merge: d34eb44 d2196c6
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 21:19:57 2025 -0600
+
+    Update
+
+commit d34eb44c695a36b57cbb0cf1035a7247f3786ea2
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 21:19:41 2025 -0600
+
+    Update
+
+commit 3937267e3d0fb28a0bff9f9c51a4a44d771abf8b
+Merge: 06c61ce d2196c6
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 03:10:47 2025 +0000
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+
+commit d2196c64f4110cdc555c2f97b1c6c9b973f54756
+Author: Love Ayinde <ljabxf@missouri.edu>
+Date:   Fri Dec 19 21:09:31 2025 -0600
+
+    Speciality AND EDA 2 Markdown
+
+commit 8e5511e3bae00b230c17ddf9077bd10b270e6993
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Fri Dec 19 21:00:42 2025 -0600
+
+    rfrhpr eda updates
+
+commit 06c61ce28af9986797cb6dd3db8ddc7a51a85311
+Merge: bdfb42d ed74ef3
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 03:00:11 2025 +0000
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+
+commit bdfb42da12ad35522e2f9f3dac7d6ac29757cc5f
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 03:00:02 2025 +0000
+
+    Updating Case Study ReadMe Table of Contents
+
+commit ed74ef358ffba025ba1987c87c7e5f90a6901da1
+Merge: dbdb8ed 928bc26
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Fri Dec 19 20:51:41 2025 -0600
+
+    rfrhpr eda updates
+
+commit dbdb8ed90c00117765fd4f39f9c5431f3fac1e14
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Fri Dec 19 20:48:02 2025 -0600
+
+    updated rfrhpr eda documentation
+
+commit 928bc26ad1f70b38426fed580297881090294a54
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 02:41:12 2025 +0000
+
+    Updating the Radar Chart
+
+commit 44aae7278c17cf11b1930b2aafcba8c286efe2e7
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 02:39:47 2025 +0000
+
+    Updating the Radar Chart
+
+commit d13b00602117eb46cf0ad390dba433258a1bd0f3
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 02:34:14 2025 +0000
+
+    Updating Markdown intro
+
+commit 5cf27bcfc556bba6d14b79dd1359ac51271290f9
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 02:26:08 2025 +0000
+
+    Updating Markdown intro
+
+commit 3daa59a91d4d63fc1eeccef11b0f675d63facce8
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 02:25:26 2025 +0000
+
+    Updating Markdown intro
+
+commit 2569934a50e1fd8af6da18f7229bc0fa132dd871
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 02:22:50 2025 +0000
+
+    Remove some columns and rerun
+
+commit 135d278687e7c01f4a5de410129092d2051c49f8
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 02:22:30 2025 +0000
+
+    Adding in PCA Projection and use best K cluster value
+
+commit 8f3c66550144e921e38829c3067de04f1ea5bde5
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 02:21:59 2025 +0000
+
+    Fixing markdown intro
+
+commit 5fa6917300480abe1b9ecc2a623e8236192adb7d
+Merge: 3258f18 b593358
+Author: Love Ayinde <ljabxf@missouri.edu>
+Date:   Fri Dec 19 19:00:25 2025 -0600
+
+    EDA files 1
+
+commit 3258f181f52beff87c969c150925b9453447e5fe
+Author: Love Ayinde <ljabxf@missouri.edu>
+Date:   Fri Dec 19 18:59:38 2025 -0600
+
+    EDA files 1
+
+commit b59335888a466bbbfbc0cc1a01a9501e9126495c
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 18:50:07 2025 -0600
+
+    update
+
+commit 473cce27cd929dbafb26feedf2ae41a283d05b1e
+Merge: 622d27f 90d3fb8
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 18:49:43 2025 -0600
+
+    update
+
+commit 622d27f656686dc37dfc7b3f13f19b3761dae5e1
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 18:49:16 2025 -0600
+
+    update
+
+commit 90d3fb85b154ec22fa1d71403967b36f71c1c009
+Merge: 47a5283 1456a32
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 00:44:56 2025 +0000
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+
+commit 47a5283c8bccec9ac277119bf0a359f6bc847482
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 00:44:52 2025 +0000
+
+    Updating Time Series Script
+
+commit d7a64eab3e8d6d5d74acce91f184f33a8bc385ba
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Sat Dec 20 00:44:22 2025 +0000
+
+    Radar Chart Creation
+
+commit 1456a3224b618351a08f0a1044c6997dcc42533b
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Fri Dec 19 18:41:05 2025 -0600
+
+    feature selection workbook
+
+commit 5bab5f613ed4759c6ddc22c87a613860dfb24874
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Fri Dec 19 17:30:34 2025 -0600
+
+    documentation updates
+
+commit 1172531617ab910088a3d286e4a676f7a7908af0
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 14:54:59 2025 -0600
+
+    update
+
+commit 5db2daddbcd14c5891417b0319764c50743009ef
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Fri Dec 19 13:14:38 2025 -0600
+
+    updated rfrr cleaning documentation
+
+commit 631560f877f4c71f8fa3b49366eb02a2f3a38d3c
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Fri Dec 19 12:16:21 2025 -0600
+
+    added documentation to rfrr cleaning
+
+commit 8b7228478861c146bf50c3b13d4a8aba002c966c
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 04:40:48 2025 -0600
+
+    Update
+
+commit ce8513c055e6e7ae81d201cd422c991d3b07547b
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 04:37:13 2025 -0600
+
+    Update
+
+commit 6170cb29c9ca5ec2c3f74bc2dca1bf9325cd3e05
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 04:30:23 2025 -0600
+
+    Update
+
+commit 6e91799667550553e5ebd1a8ba75b76ccd20edeb
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 04:10:04 2025 -0600
+
+    Update
+
+commit af276207fc7cff4b8f0967057985c141fe7636e1
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 03:36:55 2025 -0600
+
+    Update
+
+commit 4faadae147440c3b4179811c5cd56cba2351cce6
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 02:51:44 2025 -0600
+
+    update
+
+commit e69d599492af72e4f02f2f41be792da60250cdbd
+Merge: 68aaf9c 3bf0eec
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 02:20:26 2025 -0600
+
+    update
+
+commit 68aaf9cce02060f878a51e07764870b64c7d061d
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Fri Dec 19 02:19:53 2025 -0600
+
+    update
+
+commit 3bf0eecc0980345fe6cfc85b0a2990e82f787908
+Merge: fb9c846 4c9f20a
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Fri Dec 19 04:46:03 2025 +0000
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+
+commit fb9c8463c274c435c5683418f32123a7e6736780
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Fri Dec 19 04:45:51 2025 +0000
+
+    Updating More Documentation and Changing File Paths
+
+commit 4c9f20acbf31290a18fb64015de047977b3f505e
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Thu Dec 18 22:44:24 2025 -0600
+
+    update
+
+commit c8e20444cddde55b667f7b44309b82ab5048d537
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Thu Dec 18 21:51:38 2025 -0600
+
+    update
+
+commit 52a1543aae410a8b5f89d41f557df1c9c147efb6
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Fri Dec 19 03:11:23 2025 +0000
+
+    Moving the Files Around to the Right SPIN folder
+
+commit 29cb5a83c4f88d7a1ddb65d860937e56177148c3
+Merge: a70f63e 5bd4715
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Thu Dec 18 20:34:21 2025 -0600
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+    Updates to SpIn 2 and 4
+
+commit a70f63eda1da32908aadbcb5905dab2cb3a7e199
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Thu Dec 18 20:34:02 2025 -0600
+
+    eda on engineered features
+
+commit 36d302e11e32b748cebdbdd89fc1d7fbb2f25b86
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Thu Dec 18 20:33:39 2025 -0600
+
+    feature engineering
+
+commit 5bd471533d049bae97ad34d6617342a04134b49f
+Merge: 8f4e7fc 0eab538
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Thu Dec 18 20:32:33 2025 -0600
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+
+commit 8f4e7fc870e514d32c638cfe95b5a6432f5595ef
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Thu Dec 18 20:32:02 2025 -0600
+
+    update
+
+commit 0eab5387240dc116913373ff8ac3f8b0536a913a
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Thu Dec 18 20:26:16 2025 -0600
+
+    Amount stats EDA
+
+commit 285e6ceb535a58f2c5b701f901998750ceb6afc3
+Merge: 03f8d4e 9a95078
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Fri Dec 19 02:05:40 2025 +0000
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+
+commit 03f8d4ec732c17787d006492a23229a8f4ce1fc2
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Fri Dec 19 02:05:33 2025 +0000
+
+    Adding in Documentation
+
+commit 9a95078327fec3c23afc87527c0d6fb4e5c925a1
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Thu Dec 18 16:52:48 2025 -0600
+
+    Updated rfrhpr cleaning notebook
+
+commit 987c83c2fbf869a9e3f9ed2400bc13260910317c
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Thu Dec 11 02:31:52 2025 -0600
+
+    Unsupervised Script updated to use sampled data
+
+commit da0120e6d51658294139917d0718e8fe98383634
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Thu Dec 11 02:07:21 2025 -0600
+
+    Unsupervised learning for the Unified Dataset, includes Kmeans and LOF
+
+commit f018894897ce5616e9367b7442df76f81668c2a1
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Thu Dec 11 02:06:49 2025 -0600
+
+    Updating the Time Series script to use General Payments Record Level Data
+
+commit 43f79af41e08970a5c48615e0dcb2c802263626c
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Thu Dec 11 02:06:04 2025 -0600
+
+    Using the DME by Year and NPI and Merging the Payments and LEIE and Specialties
+
+commit cfc75b0fd477c5a6efb14d016de872d72957e404
+Merge: b4f336c 40b4b87
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Wed Dec 10 20:59:23 2025 -0600
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+
+commit b4f336c368a16f33c1edda84a6a840236863d757
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Wed Dec 10 20:59:17 2025 -0600
+
+    SW Working In Progress
+
+commit a41c0b1b45ff0a81b09903d86f4a7d38df78bf1a
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Wed Dec 10 20:58:50 2025 -0600
+
+    Creating a Script for a Gold Standard Specialty Table
+
+commit b994458f7a025281f55813616d816795da4873f4
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Wed Dec 10 20:58:10 2025 -0600
+
+    Unifying Datasets in progress. DME, LEIE, All Payments
+
+commit 40b4b876ad617eb308afdc47add8f4d22acdc617
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Wed Dec 10 13:47:09 2025 -0600
+
+    write out rfrr labeled data to csv
+
+commit 2cf5abc7f9e1f87e3277af31fb44fcb03b5d687b
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Tue Dec 9 20:41:08 2025 -0600
+
+    updates to rfrhpr eda
+
+commit 2b90bf8e67fc568fcb490ac8da6a1844ba7b0df3
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Tue Dec 9 13:41:44 2025 -0600
+
+    rfrhpr eda edits
+
+commit 53dbc9875e66b4a3a7720016e1b7e34c7391ad64
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Tue Dec 9 10:03:08 2025 -0600
+
+    updates to rfrhpr eda
+
+commit 27f4043bec7a423717f847eb4749b1e71f1e1ece
+Merge: 2b76cd5 50a7b44
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Mon Dec 8 13:11:04 2025 -0600
+
+    Temporary Starting Files
+
+commit 2b76cd558fecb6ed854957777423ff979d075db0
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Mon Dec 8 12:23:57 2025 -0600
+
+    Copying clean general payments to data share path
+
+commit 50a7b444586ba9c503dcf1692e063ff762434a99
+Merge: 7c90d1a dbdd235
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Sat Dec 6 22:51:53 2025 -0600
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+    
+    EDA for referring provider (and service) datasets
+
+commit 7c90d1a6514e79c2d3784bb01aa2b43193f66fff
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Sat Dec 6 22:51:31 2025 -0600
+
+    rfrphr and rfrr EDA
+
+commit dbdd235a816e4d08631617cf498c1ccb4b34eac9
+Author: Love Ayinde <ljabxf@missouri.edu>
+Date:   Sat Dec 6 22:50:53 2025 -0600
+
+    Add the updated ownership data to SpIn_1_Artifacts
+
+commit f1b1a7c9223db3c5077a594aea38bea555cc3c51
+Author: Love Ayinde <ljabxf@missouri.edu>
+Date:   Sat Dec 6 20:09:53 2025 -0600
+
+    Remove Census Bereau from SpIn_4_Artifacts
+
+commit 465e49c78ac22c7c7faab30a8d7388e94e442626
+Author: Love Ayinde <ljabxf@missouri.edu>
+Date:   Sat Dec 6 20:07:56 2025 -0600
+
+    Add Census Bereau to SpIn_1_Artifacts
+
+commit 3f771baf061cf8765f25d2073a18e928d442272c
+Author: Love Ayinde <ljabxf@missouri.edu>
+Date:   Fri Dec 5 19:31:20 2025 -0600
+
+    Adding Zip_level Census Bureau .csv
+
+commit e28956a7ce071a717800ed648be955c4fbb5b719
+Author: Love Ayinde <ljabxf@missouri.edu>
+Date:   Fri Dec 5 19:29:21 2025 -0600
+
+    Adding Zip_level Census Bureau
+
+commit 2bef1a731802d3fab5d6c8a409b1ea59d52d19f0
+Author: Love Ayinde <ljabxf@missouri.edu>
+Date:   Fri Dec 5 18:11:43 2025 -0600
+
+    CSV file
+
+commit 9d737373d766bcdfe1c726bd6ace6fc34dbde32d
+Author: Love Ayinde <ljabxf@missouri.edu>
+Date:   Fri Dec 5 18:09:24 2025 -0600
+
+    This is where I place the Census Data (By County-level)
+
+commit b333125b6fa3ddc4ac79cbba763627622b45aa17
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Tue Dec 2 17:44:35 2025 -0600
+
+    More General Payments Cleaning
+
+commit 3a3a0f366eab827149009602ae184d920b598b15
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Tue Dec 2 14:45:55 2025 -0600
+
+    Adding in EDA Files
+
+commit 53af24335548a28ee073cada53ac0655bf273b5b
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Tue Dec 2 14:45:11 2025 -0600
+
+    Updating README
+
+commit 8c8623bf41c08d687b602c3daea85b9c59bb14fc
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Tue Dec 2 14:44:20 2025 -0600
+
+    Updating the Ownership cleaning script
+
+commit e99bc9e1d1aa948e0a03e6bd6004259ff6387059
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Mon Dec 1 15:59:14 2025 -0600
+
+    Updated file paths
+
+commit 291a7d013522f6d312a2be51afe4bb963d3464e0
+Merge: 59f319e 14e0354
+Author: Love Ayinde <ljabxf@missouri.edu>
+Date:   Mon Dec 1 15:47:07 2025 -0600
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+
+commit 59f319e92ab5b4db3886228dffe8c3cc46386ba9
+Author: Love Ayinde <ljabxf@missouri.edu>
+Date:   Mon Dec 1 15:45:56 2025 -0600
+
+     Adding in the ownership script
+
+commit 14e03543cfc5c92f11c3f222eac0998c32055f0f
+Merge: 237ab3d 237c495
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Mon Dec 1 15:40:39 2025 -0600
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+    
+    Changes to referring provider spin1
+
+commit 237ab3db0abed4ad62d7c36f7549dedd9ad6affd
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Mon Dec 1 15:40:11 2025 -0600
+
+    Replaced file paths
+
+commit 237c495943775115847ca4c7d3dbed095cd5cb8d
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Mon Dec 1 15:01:59 2025 -0600
+
+    EDA Update
+
+commit 38eda99b89e788cdbc11c68421a23327abf2b2b1
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Mon Dec 1 14:40:59 2025 -0600
+
+    EDA
+
+commit 00e95d4879e1fc3ab23d861a3258e4cc0ce9146e
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Sun Nov 30 18:59:50 2025 -0600
+
+    DB Setup
+
+commit d22c264c6e6e246dbecb6e26db98141c7f621056
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Wed Nov 19 06:32:54 2025 -0600
+
+    Adding in clean general payments
+
+commit 579d83daca2871a8f1fdae35952d86d547e147f5
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Thu Nov 13 20:15:44 2025 -0600
+
+    Rename the General Payments File in SpIn1
+
+commit dddf28a64a06af8815a5c8422ef88be17541b1e2
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Thu Nov 13 18:03:35 2025 -0600
+
+    Cleaning LEIE and Medicare Enrollment
+
+commit f2a0577c5e73b476d48ad573784d7f5e1592481f
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Thu Nov 13 16:46:48 2025 -0600
+
+    Removing the Raw File Path in README
+
+commit 525ef3e4a03950757395d7ead74e56bb7d265c19
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Sat Nov 8 21:07:41 2025 -0600
+
+    SpIn 2 updates
+
+commit ad03681691b28e5947e5da4bf0d7e7014b1e2132
+Merge: 5601567 837127e
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Sat Nov 8 21:06:55 2025 -0600
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+
+commit 837127e623f75848ef5687b3a48a920ccc729078
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Sat Nov 8 21:03:25 2025 -0600
+
+    Update ukgff
+
+commit 5601567ba3815199f867965957f8f8a85db26635
+Merge: b3aa032 f394663
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Sat Nov 8 18:40:46 2025 -0600
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+
+commit f394663c0c263931ca19cf2b83b4dd5b2c4f20ed
+Merge: 0488fa3 9b9bde7
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Sat Nov 8 03:04:15 2025 -0600
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+
+commit 0488fa3032d61ceb546b9b0cbf89097632f1c189
+Author: Udyavara Narsim Kamath <ukgff@missouri.edu>
+Date:   Sat Nov 8 03:03:48 2025 -0600
+
+    Metadata update
+
+commit 9b9bde79bd840e9a45f79d81e589c521c77e1504
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Fri Nov 7 19:52:41 2025 -0600
+
+    Adding in Gitlab notebooks
+
+commit b223b6fc7e90330b3b9431f1059e8d01118a8337
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Fri Nov 7 19:06:38 2025 -0600
+
+    testing
+
+commit b3aa0321747bf8f5257317a1feffe1cd09b65cab
+Merge: da35f46 7ae058a
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Fri Nov 7 19:02:31 2025 -0600
+
+    Merge branch 'master' of git.dsa.missouri.edu:dsa-8080-c/f25/f25cCaseStudy_Team2
+
+commit da35f46ff89795bd5e1754e48bb5afbf9857dd40
+Author: Cameron Kass <ckgnr@missouri.edu>
+Date:   Fri Nov 7 18:55:32 2025 -0600
+
+    data policy agreement
+
+commit 7ae058ad843d34e7723e655b00c6b59d9fd46921
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Fri Nov 7 18:41:02 2025 -0600
+
+    Markdown files for raw data
+
+commit 17251819b6290de378730745b0fa655cb8f298bf
+Author: Sabrina Woo <sabrina.y.woo@missouri.edu>
+Date:   Fri Nov 7 16:27:26 2025 -0600
+
+    updating Case Study Readme with Team Number
+
+commit 4c9bb7e4e367a124891049d0e2c2a8dfa45e333b
+Author: Edward Mirielli <ejm301@missouri.edu>
+Date:   Tue Sep 16 16:13:38 2025 -0500
+
+    cannot ignore .gitignore
+
+commit beaf99591aee8e866c082372246e701584e84afe
+Author: Edward Mirielli <ejm301@missouri.edu>
+Date:   Tue Sep 16 12:54:17 2025 -0500
+
+    f25 OL case study team repo
+
+commit 02c6ab84221f2688dfd75fc66de5c376c96fe1c8
+Author: Edward Mirielli <ejm301@missouri.edu>
+Date:   Wed Sep 10 12:32:16 2025 -0500
+
+    Initial commit
